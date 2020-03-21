@@ -1,5 +1,5 @@
 # -OyebanjiOyinkansola
-fullname-oyebanji oyinkansola,
+fullname-oyebanji oyinkansola arolayo,
 email-oyebanjiioyinkansola@gmail.com
 slack username-Oyebanji Oyinkansola
 tracks-frontend,backend,design:
