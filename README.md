@@ -1,4 +1,6 @@
 # -OyebanjiOyinkansola
-oyebanji oyinkansola,
-frontend,backend,design:
-frontend(html,css,js),backend(c#,phython),design(UX,UI)
+fullname-oyebanji oyinkansola,
+email-oyebanjiioyinkansola@gmail.com
+slack username-Oyebanji Oyinkansola
+tracks-frontend,backend,design:
+courses-html,css,js,c#,phython,UX,UI
